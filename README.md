@@ -22,7 +22,7 @@ The data analysis pipeline included:
 | File Name | Description |
 | :--- | :--- |
 | `netflix nlp.ipynb` | The primary **Jupyter Notebook** containing all data cleaning, feature engineering, K-Means clustering logic, and visualization code. |
-| `Uncovering Global Action Hotspots netflix saith krishna.pptx` | The **Final Presentation** summarizing the methodology, key findings, and strategic recommendations for the business case. |
+| `Uncovering Global Action Hotspots netflix.pptx` | The **Final Presentation** summarizing the methodology, key findings, and strategic recommendations for the business case. |
 | `netflix_titles.csv` | The **raw dataset** used for the analysis. |
 
 ## Technologies Used
